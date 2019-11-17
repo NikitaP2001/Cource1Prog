@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1574025522 source:c:\users\1\lr\cprojects\lr3n4\gen\main.cpp
+	<iostream>
+	"lengthm.h"
+	"htmloutput.h"
+
+1573037658 c:\users\1\lr\cprojects\lr3n4\gen\fib.h
+
+1573567041 c:\users\1\lr\cprojects\lr3n4\gen\r.h
+	"fib.h"
+
+1574000303 c:\users\1\lr\cprojects\lr3n4\gen\lengthm.h
+	"R.h"
+
+1574008361 c:\users\1\lr\cprojects\lr3n4\gen\htmloutput.h
+
